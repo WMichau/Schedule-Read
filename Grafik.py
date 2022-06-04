@@ -11,8 +11,8 @@ def Downlaod_File():
     root_url = "https://grupawppl.sharepoint.com"
     full_url = "https://grupawppl.sharepoint.com/sites/LoaSzydercw/Shared Documents/ZOP/Dyżury aktualne.xlsx"
 
-    user='Michal.Wrycza@grupawp.pl'
-    password='Wtfwtfwtf132@'
+    user=''
+    password=''
 
     s = sharepy.connect(root_url, user, password)
  
